@@ -1,0 +1,352 @@
+{
+  "aquarium.jpg": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "eel",
+        "confidence": 48.04,
+        "latency_ms": 972.63
+      },
+      "mobilenetv2": {
+        "label": "goldfish",
+        "confidence": 5.95,
+        "latency_ms": 780.66
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "cardoon",
+        "confidence": 5.88,
+        "latency_ms": 97.67
+      },
+      "mobilenetv2": {
+        "label": "velvet",
+        "confidence": 3.25,
+        "latency_ms": 53.56
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "eel",
+        "confidence": 52.16,
+        "latency_ms": 61.18
+      },
+      "mobilenetv2": {
+        "label": "goldfish",
+        "confidence": 6.8,
+        "latency_ms": 20.11
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "coral reef",
+        "confidence": 4.64,
+        "latency_ms": 62.53
+      },
+      "mobilenetv2": {
+        "label": "coral reef",
+        "confidence": 1.71,
+        "latency_ms": 20.29
+      }
+    }
+  },
+  "jellyfish.jpg": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "jellyfish",
+        "confidence": 99.49,
+        "latency_ms": 62.09
+      },
+      "mobilenetv2": {
+        "label": "jellyfish",
+        "confidence": 57.55,
+        "latency_ms": 20.41
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "rapeseed",
+        "confidence": 9.09,
+        "latency_ms": 62.38
+      },
+      "mobilenetv2": {
+        "label": "spotlight",
+        "confidence": 1.56,
+        "latency_ms": 20.06
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "jellyfish",
+        "confidence": 99.57,
+        "latency_ms": 61.52
+      },
+      "mobilenetv2": {
+        "label": "jellyfish",
+        "confidence": 25.08,
+        "latency_ms": 20.6
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "fountain",
+        "confidence": 39.1,
+        "latency_ms": 63.53
+      },
+      "mobilenetv2": {
+        "label": "jellyfish",
+        "confidence": 17.86,
+        "latency_ms": 27.29
+      }
+    }
+  },
+  "set_u106_SESR.png": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "rock beauty",
+        "confidence": 80.01,
+        "latency_ms": 65.16
+      },
+      "mobilenetv2": {
+        "label": "rock beauty",
+        "confidence": 19.79,
+        "latency_ms": 22.68
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "rock beauty",
+        "confidence": 11.65,
+        "latency_ms": 66.57
+      },
+      "mobilenetv2": {
+        "label": "dugong",
+        "confidence": 13.8,
+        "latency_ms": 22.73
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "rock beauty",
+        "confidence": 88.34,
+        "latency_ms": 65.12
+      },
+      "mobilenetv2": {
+        "label": "rock beauty",
+        "confidence": 21.7,
+        "latency_ms": 22.8
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "rock beauty",
+        "confidence": 80.8,
+        "latency_ms": 67.41
+      },
+      "mobilenetv2": {
+        "label": "eel",
+        "confidence": 7.44,
+        "latency_ms": 21.6
+      }
+    }
+  },
+  "set_f46_SESR.png": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "king crab",
+        "confidence": 33.12,
+        "latency_ms": 67.39
+      },
+      "mobilenetv2": {
+        "label": "king crab",
+        "confidence": 11.18,
+        "latency_ms": 23.17
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "black grouse",
+        "confidence": 3.28,
+        "latency_ms": 64.96
+      },
+      "mobilenetv2": {
+        "label": "dugong",
+        "confidence": 2.8,
+        "latency_ms": 21.01
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "king crab",
+        "confidence": 64.03,
+        "latency_ms": 63.37
+      },
+      "mobilenetv2": {
+        "label": "sea snake",
+        "confidence": 13.17,
+        "latency_ms": 21.17
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "coral reef",
+        "confidence": 43.65,
+        "latency_ms": 65.42
+      },
+      "mobilenetv2": {
+        "label": "king crab",
+        "confidence": 21.4,
+        "latency_ms": 24.53
+      }
+    }
+  },
+  "set_o20_SESR.png": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "loggerhead",
+        "confidence": 79.38,
+        "latency_ms": 67.79
+      },
+      "mobilenetv2": {
+        "label": "loggerhead",
+        "confidence": 14.14,
+        "latency_ms": 22.79
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "dugong",
+        "confidence": 28.53,
+        "latency_ms": 65.05
+      },
+      "mobilenetv2": {
+        "label": "dugong",
+        "confidence": 8.09,
+        "latency_ms": 21.57
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "loggerhead",
+        "confidence": 57.11,
+        "latency_ms": 65.27
+      },
+      "mobilenetv2": {
+        "label": "leatherback turtle",
+        "confidence": 40.1,
+        "latency_ms": 21.94
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "loggerhead",
+        "confidence": 61.7,
+        "latency_ms": 65.9
+      },
+      "mobilenetv2": {
+        "label": "loggerhead",
+        "confidence": 45.19,
+        "latency_ms": 22.35
+      }
+    }
+  },
+  "set_u113_SESR.png": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "king crab",
+        "confidence": 20.95,
+        "latency_ms": 68.2
+      },
+      "mobilenetv2": {
+        "label": "isopod",
+        "confidence": 8.78,
+        "latency_ms": 23.53
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "kite",
+        "confidence": 11.11,
+        "latency_ms": 63.27
+      },
+      "mobilenetv2": {
+        "label": "barn spider",
+        "confidence": 2.81,
+        "latency_ms": 21.7
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "leatherback turtle",
+        "confidence": 31.39,
+        "latency_ms": 65.07
+      },
+      "mobilenetv2": {
+        "label": "isopod",
+        "confidence": 7.22,
+        "latency_ms": 21.91
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "leatherback turtle",
+        "confidence": 28.81,
+        "latency_ms": 65.86
+      },
+      "mobilenetv2": {
+        "label": "leatherback turtle",
+        "confidence": 7.45,
+        "latency_ms": 23.08
+      }
+    }
+  },
+  "set_f20_SESR.png": {
+    "Baseline (Clean)": {
+      "resnet18": {
+        "label": "hen-of-the-woods",
+        "confidence": 21.56,
+        "latency_ms": 72.69
+      },
+      "mobilenetv2": {
+        "label": "coral fungus",
+        "confidence": 4.52,
+        "latency_ms": 24.57
+      }
+    },
+    "Turbidity": {
+      "resnet18": {
+        "label": "water ouzel",
+        "confidence": 4.59,
+        "latency_ms": 68.6
+      },
+      "mobilenetv2": {
+        "label": "rapeseed",
+        "confidence": 37.33,
+        "latency_ms": 23.65
+      }
+    },
+    "Color Shift": {
+      "resnet18": {
+        "label": "coral reef",
+        "confidence": 29.01,
+        "latency_ms": 67.83
+      },
+      "mobilenetv2": {
+        "label": "rock beauty",
+        "confidence": 26.52,
+        "latency_ms": 22.12
+      }
+    },
+    "Sensor Noise": {
+      "resnet18": {
+        "label": "jackfruit",
+        "confidence": 25.33,
+        "latency_ms": 66.84
+      },
+      "mobilenetv2": {
+        "label": "rock beauty",
+        "confidence": 16.52,
+        "latency_ms": 22.24
+      }
+    }
+  }
+}
